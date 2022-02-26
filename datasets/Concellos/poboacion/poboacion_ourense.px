@@ -1,0 +1,59 @@
+AXIS-VERSION="2006";
+CREATION-DATE="20220226";
+CHARSET="ANSI";
+SUBJECT-AREA="Cifras oficiales de población resultantes de la revisión del Padrón municipal ";
+SUBJECT-CODE="10";
+MATRIX="PROV-MUN";
+TITLE="Ourense: Población por municipios y sexo. ";
+CONTENTS="Ourense: Población";
+CODEPAGE="iso-8859-15";
+DESCRIPTION="";
+COPYRIGHT=YES;
+NOTE="Si en la serie de datos en algún año no existe población es porque a la fecha"
+" de referencia no existía el municipio."
+"Las cifras de 1996 están referidas a 1 de mayo y  las demás a 1 de enero."
+"No existen cifras a 1 de enero de 1997 porque no se realizó revisión del padr"
+"ón para ese año";
+DECIMALS=0;
+SHOWDECIMALS=0;
+STUB="Municipios";
+HEADING="Sexo","Periodo";
+VALUES("Municipios")="32001 Allariz","32002 Amoeiro","32003 Arnoia, A","32004 Avión","32005 Baltar",
+"32006 Bande","32007 Baños de Molgas","32008 Barbadás",
+"32009 Barco de Valdeorras, O","32010 Beade","32011 Beariz","32012 Blancos, Os",
+"32013 Boborás","32014 Bola, A","32015 Bolo, O","32016 Calvos de Randín",
+"32018 Carballeda de Avia","32017 Carballeda de Valdeorras","32019 Carballiño, O",
+"32020 Cartelle","32022 Castrelo de Miño","32021 Castrelo do Val",
+"32023 Castro Caldelas","32024 Celanova","32025 Cenlle","32029 Chandrexa de Queixa",
+"32026 Coles","32027 Cortegada","32028 Cualedro","32030 Entrimo","32031 Esgos",
+"32033 Gomesende","32034 Gudiña, A","32035 Irixo, O","32038 Larouco","32039 Laza",
+"32040 Leiro","32041 Lobeira","32042 Lobios","32043 Maceda","32044 Manzaneda",
+"32045 Maside","32046 Melón","32047 Merca, A","32048 Mezquita, A",
+"32049 Montederramo","32050 Monterrei","32051 Muíños","32052 Nogueira de Ramuín",
+"32053 Oímbra","32054 Ourense","32055 Paderne de Allariz","32056 Padrenda",
+"32057 Parada de Sil","32058 Pereiro de Aguiar, O","32059 Peroxa, A","32060 Petín",
+"32061 Piñor","32063 Pobra de Trives, A","32064 Pontedeva","32062 Porqueira",
+"32065 Punxín","32066 Quintela de Leirado","32067 Rairiz de Veiga","32068 Ramirás",
+"32069 Ribadavia","32071 Riós","32072 Rúa, A","32073 Rubiá","32074 San Amaro",
+"32075 San Cibrao das Viñas","32076 San Cristovo de Cea","32070 San Xoán de Río",
+"32077 Sandiás","32078 Sarreaus","32079 Taboadela","32080 Teixeira, A","32081 Toén",
+"32082 Trasmiras","32083 Veiga, A","32084 Verea","32085 Verín","32086 Viana do Bolo",
+"32087 Vilamarín","32088 Vilamartín de Valdeorras","32089 Vilar de Barrio",
+"32090 Vilar de Santos","32091 Vilardevós","32092 Vilariño de Conso",
+"32032 Xinzo de Limia","32036 Xunqueira de Ambía","32037 Xunqueira de Espadanedo";
+VALUES("Sexo")="Total";
+VALUES("Periodo")="2021";
+CODES("Municipios")="32001","32002","32003","32004","32005","32006","32007","32008","32009","32010","32011",
+"32012","32013","32014","32015","32016","32018","32017","32019","32020","32022","32021",
+"32023","32024","32025","32029","32026","32027","32028","32030","32031","32033","32034",
+"32035","32038","32039","32040","32041","32042","32043","32044","32045","32046","32047",
+"32048","32049","32050","32051","32052","32053","32054","32055","32056","32057","32058",
+"32059","32060","32061","32063","32064","32062","32065","32066","32067","32068","32069",
+"32071","32072","32073","32074","32075","32076","32070","32077","32078","32079","32080",
+"32081","32082","32083","32084","32085","32086","32087","32088","32089","32090","32091",
+"32092","32032","32036","32037";
+MAP("Municipios")="muni0109_esp";
+SOURCE="Instituto Nacional de Estadística";
+UNITS="Personas";
+DATA=6314.0 2333.0 952.0 1738.0 919.0 1490.0 1483.0 11022.0 13384.0 379.0 971.0 745.0 2206.0 1075.0 828.0 717.0 1249.0 1460.0 13911.0 2570.0 1321.0 979.0 1182.0 5652.0 1094.0 482.0 3125.0 1061.0 1639.0 1128.0 1109.0 693.0 1232.0 1401.0 427.0 1222.0 1510.0 769.0 1672.0 2849.0 846.0 2718.0 1135.0 1939.0 1006.0 705.0 2501.0 1447.0 2067.0 1713.0
+ 104596.0 1373.0 1653.0 544.0 6470.0 1826.0 879.0 1162.0 2015.0 491.0 827.0 704.0 614.0 1223.0 1507.0 5005.0 1459.0 4245.0 1390.0 1048.0 5509.0 2072.0 505.0 1181.0 1114.0 1452.0 336.0 2374.0 1261.0 886.0 914.0 13644.0 2787.0 1882.0 1837.0 1258.0 791.0 1781.0 513.0 9621.0 1366.0 738.0;

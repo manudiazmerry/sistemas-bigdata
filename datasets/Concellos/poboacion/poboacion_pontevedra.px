@@ -1,0 +1,48 @@
+AXIS-VERSION="2006";
+CREATION-DATE="20220226";
+CHARSET="ANSI";
+SUBJECT-AREA="Cifras oficiales de población resultantes de la revisión del Padrón municipal ";
+SUBJECT-CODE="10";
+MATRIX="PROV-MUN";
+TITLE="Pontevedra: Población por municipios y sexo. ";
+CONTENTS="Pontevedra: Población";
+CODEPAGE="iso-8859-15";
+DESCRIPTION="";
+COPYRIGHT=YES;
+NOTE="Si en la serie de datos en algún año no existe población es porque a la fecha"
+" de referencia no existía el municipio."
+"Las cifras de 1996 están referidas a 1 de mayo y  las demás a 1 de enero."
+"No existen cifras a 1 de enero de 1997 porque no se realizó revisión del padr"
+"ón para ese año";
+DECIMALS=0;
+SHOWDECIMALS=0;
+STUB="Municipios";
+HEADING="Sexo","Periodo";
+VALUES("Municipios")="36020 Agolada","36001 Arbo","36003 Baiona","36002 Barro","36004 Bueu",
+"36005 Caldas de Reis","36006 Cambados","36007 Campo Lameiro","36008 Cangas",
+"36009 Cañiza, A","36010 Catoira","36011 Cerdedo","36902 Cerdedo-Cotobade",
+"36012 Cotobade","36013 Covelo","36014 Crecente","36015 Cuntis","36016 Dozón",
+"36017 Estrada, A","36018 Forcarei","36019 Fornelos de Montes","36021 Gondomar",
+"36022 Grove, O","36023 Guarda, A","36901 Illa de Arousa, A","36024 Lalín",
+"36025 Lama, A","36026 Marín","36027 Meaño","36028 Meis","36029 Moaña",
+"36030 Mondariz","36031 Mondariz-Balneario","36032 Moraña","36033 Mos",
+"36034 Neves, As","36035 Nigrán","36036 Oia","36037 Pazos de Borbén","36041 Poio",
+"36043 Ponte Caldelas","36042 Ponteareas","36044 Pontecesures","36038 Pontevedra",
+"36039 Porriño, O","36040 Portas","36045 Redondela","36046 Ribadumia",
+"36047 Rodeiro","36048 Rosal, O","36049 Salceda de Caselas",
+"36050 Salvaterra de Miño","36051 Sanxenxo","36052 Silleda","36053 Soutomaior",
+"36054 Tomiño","36055 Tui","36056 Valga","36057 Vigo","36059 Vila de Cruces",
+"36058 Vilaboa","36060 Vilagarcía de Arousa","36061 Vilanova de Arousa";
+VALUES("Sexo")="Total";
+VALUES("Periodo")="2021";
+CODES("Municipios")="36020","36001","36003","36002","36004","36005","36006","36007","36008","36009","36010",
+"36011","36902","36012","36013","36014","36015","36016","36017","36018","36019","36021",
+"36022","36023","36901","36024","36025","36026","36027","36028","36029","36030","36031",
+"36032","36033","36034","36035","36036","36037","36041","36043","36042","36044","36038",
+"36039","36040","36045","36046","36047","36048","36049","36050","36051","36052","36053",
+"36054","36055","36056","36057","36059","36058","36060","36061";
+MAP("Municipios")="muni0109_esp";
+SOURCE="Instituto Nacional de Estadística";
+UNITS="Personas";
+DATA=2228.0 2599.0 12286.0 3622.0 11987.0 9788.0 13673.0 1769.0 26708.0 5115.0 3316.0 ".." 5719.0 ".." 2455.0 1961.0 4643.0 1057.0 20261.0 3268.0 1594.0 14920.0 10699.0 9991.0 4951.0 20199.0 2410.0 24248.0 5314.0 4796.0 19496.0 4394.0 675.0 4121.0 15190.0 3770.0 18005.0 3104.0 2975.0 17230.0 5548.0 22942.0 3081.0 83114.0 20212.0 2860.0 29192.0 5157.0 2361.0 6376.0
+ 9249.0 10048.0 17635.0 8845.0 7482.0 13730.0 17398.0 5768.0 293837.0 5097.0 5955.0 37545.0 10306.0;
