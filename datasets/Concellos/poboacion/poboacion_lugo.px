@@ -1,0 +1,50 @@
+AXIS-VERSION="2006";
+CREATION-DATE="20220226";
+CHARSET="ANSI";
+SUBJECT-AREA="Cifras oficiales de población resultantes de la revisión del Padrón municipal ";
+SUBJECT-CODE="10";
+MATRIX="PROV-MUN";
+TITLE="Lugo: Población por municipios y sexo. ";
+CONTENTS="Lugo: Población";
+CODEPAGE="iso-8859-15";
+DESCRIPTION="";
+COPYRIGHT=YES;
+NOTE="Si en la serie de datos en algún año no existe población es porque a la fecha"
+" de referencia no existía el municipio."
+"Las cifras de 1996 están referidas a 1 de mayo y  las demás a 1 de enero."
+"No existen cifras a 1 de enero de 1997 porque no se realizó revisión del padr"
+"ón para ese año";
+DECIMALS=0;
+SHOWDECIMALS=0;
+STUB="Municipios";
+HEADING="Sexo","Periodo";
+VALUES("Municipios")="27001 Abadín","27002 Alfoz","27003 Antas de Ulla","27004 Baleira","27901 Baralla",
+"27005 Barreiros","27006 Becerreá","27007 Begonte","27008 Bóveda","27902 Burela",
+"27009 Carballedo","27010 Castro de Rei","27011 Castroverde","27012 Cervantes",
+"27013 Cervo","27016 Chantada","27014 Corgo, O","27015 Cospeito",
+"27017 Folgoso do Courel","27018 Fonsagrada, A","27019 Foz","27020 Friol",
+"27022 Guitiriz","27023 Guntín","27024 Incio, O","27026 Láncara","27027 Lourenzá",
+"27028 Lugo","27029 Meira","27030 Mondoñedo","27031 Monforte de Lemos",
+"27032 Monterroso","27033 Muras","27034 Navia de Suarna","27035 Negueira de Muñiz",
+"27037 Nogais, As","27038 Ourol","27039 Outeiro de Rei","27040 Palas de Rei",
+"27041 Pantón","27042 Paradela","27043 Páramo, O","27044 Pastoriza, A",
+"27045 Pedrafita do Cebreiro","27047 Pobra do Brollón, A","27046 Pol",
+"27048 Pontenova, A","27049 Portomarín","27050 Quiroga","27056 Rábade",
+"27051 Ribadeo","27052 Ribas de Sil","27053 Ribeira de Piquín","27054 Riotorto",
+"27055 Samos","27057 Sarria","27058 Saviñao, O","27059 Sober","27060 Taboada",
+"27061 Trabada","27062 Triacastela","27063 Valadouro, O","27064 Vicedo, O",
+"27065 Vilalba","27066 Viveiro","27021 Xermade","27025 Xove";
+VALUES("Sexo")="Total";
+VALUES("Periodo")="2021";
+CODES("Municipios")="27001","27002","27003","27004","27901","27005","27006","27007","27008","27902","27009",
+"27010","27011","27012","27013","27016","27014","27015","27017","27018","27019","27020",
+"27022","27023","27024","27026","27027","27028","27029","27030","27031","27032","27033",
+"27034","27035","27037","27038","27039","27040","27041","27042","27043","27044","27045",
+"27047","27046","27048","27049","27050","27056","27051","27052","27053","27054","27055",
+"27057","27058","27059","27060","27061","27062","27063","27064","27065","27066","27021",
+"27025";
+MAP("Municipios")="muni0109_esp";
+SOURCE="Instituto Nacional de Estadística";
+UNITS="Personas";
+DATA=2297.0 1610.0 1935.0 1190.0 2445.0 3001.0 2826.0 2976.0 1407.0 9428.0 2123.0 5110.0 2609.0 1288.0 4192.0 8134.0 3440.0 4374.0 989.0 3328.0 10078.0 3682.0 5455.0 2638.0 1521.0 2551.0 2129.0 97613.0 1731.0 3480.0 18242.0 3562.0 611.0 1041.0 223.0 1018.0 984.0 5216.0 3316.0 2429.0 1723.0 1347.0 2918.0 943.0 1615.0 1634.0 2207.0 1382.0 3151.0 1524.0
+ 9871.0 946.0 513.0 1213.0 1222.0 13257.0 3589.0 2243.0 2689.0 1114.0 627.0 1960.0 1657.0 14006.0 15312.0 1768.0 3360.0;
